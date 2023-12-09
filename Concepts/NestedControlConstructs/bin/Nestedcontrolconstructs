@@ -1,0 +1,11 @@
+NESTED CONTROL CONSTRUCTS:
+=========================
+*Nested conditional controls one conditional control inside another.
+1.Nested If
+2.Nested If Else
+3.Nested Switch.
+* Nested loops are the loops having one loop inside another loop
+1.Nested For Loop
+2.Nested While loop
+3.Nested do-while loop
+ 

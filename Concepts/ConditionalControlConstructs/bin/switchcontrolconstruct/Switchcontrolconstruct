@@ -1,0 +1,8 @@
+SWITCH CONTROL CONSTRUCT:
+========================
+ Switch case in Java executes one statement from multiple ones.
+ It is similar to the if else ladder, unlike the else if ladder
+ which executes every condition linearly, switch condition skips 
+ rest of the conditions and directly jumps to the exact condition.
+    Simply it switches the execution based on the value present
+ in a variable.

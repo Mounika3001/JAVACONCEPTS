@@ -1,0 +1,11 @@
+METHOD OVERLOADING:
+ 
+ Method overloading is the process of different methods having same 
+ name but difference in signature (i.e, type of parameters, number 
+ of parameters and order of parameters).
+ 
+ * Method overloading promotes virtual polymorphism(false polymorphism).
+ * For user it looks like one method is performing multiple tasks but in 
+ reality different methods perform different tasks.
+ 
+ 

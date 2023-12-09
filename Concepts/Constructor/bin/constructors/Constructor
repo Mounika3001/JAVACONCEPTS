@@ -1,0 +1,13 @@
+CONSTRUCTOR:
+===========
+Constructors are the specialized methods that has the same name as class name which does not have any return type.
+* Constructor would be called at the time of object creation.
+* The major use of constructor is to initialize the instance variables at the time of object creation.
+
+Note:
+-----
+If we do not have any constructor written in the class then by default compiler will add zero parameterized constructor into the class.
+Note-2:
+-------
+Default constructor would be added if and only if programmer have not written any constructor in the class.
+* If the programmer has written any constructor then compiler will not add default constructor  

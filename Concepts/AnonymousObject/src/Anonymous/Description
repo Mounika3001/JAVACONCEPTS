@@ -1,0 +1,5 @@
+ANONYMOUS OBJECTS:
+=================
+Anonymous objects are such objects, which does not have any reference.
+Normally we create an anonymous object when we want to access a single 
+functionality of a object only once.

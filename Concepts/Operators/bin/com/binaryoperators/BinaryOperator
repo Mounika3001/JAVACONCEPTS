@@ -1,0 +1,8 @@
+BinaryOperator:
+===============
+These are the operators that would act upon two operators.
+They are:
+1.Arithmetic Operators(+,-,*,/,%)
+2.Relational or Comparison Operators(>,<,==,!=,>=,<=)
+3.Logical Operators(&&,||)
+4.Bitwise Operators (&,|, ^,<<,>>)

@@ -1,0 +1,7 @@
+SHADOWING PROBLEM:
+=================
+  According to industrial standards local variables names should be same in the constructors.
+     If local variables and the instance variables are same then local variable values will not reflected in the instance variables. 
+ This problem is technically called as "Shadowing Problem".
+    Shadowing problem can be resolved by using "this" keyword. "this" keyword holds the address of current object.
+     

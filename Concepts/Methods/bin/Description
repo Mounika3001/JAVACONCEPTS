@@ -1,0 +1,16 @@
+Methods:
+========
+Methods are the set of statements that are used to perform particular task.
+Methods will have
+1.Method name
+2.parameters
+3.Return type
+4.Definition or body
+Types of Methods:
+------------------
+Methods are classified into 4 types based on whether they are accepting the parameters
+and returning values or not
+1.Which would not accept parameters, and would not return any value.
+2.Which would accept parameters, and would not return any value.
+3.Which would not accept parameters, and would return any value.
+4.Which would accept parameters, and would return any value.

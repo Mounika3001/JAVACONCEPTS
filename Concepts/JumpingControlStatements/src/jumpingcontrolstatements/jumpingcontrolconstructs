@@ -1,0 +1,15 @@
+JUMPING CONTROL CONSTRUCTS:
+===========================
+There are two types of jumping control constructs
+1.Break
+2.continue
+
+ Break:
+ ------
+ * Break will bring the control out of the control construct(loop or switch).
+ * Any statement which is present under break or continue will get executed.
+ 
+ Continue:
+ --------
+ Continue in the looping control construct is used to skip the current 
+ iteration and moved to next iteration of the loop

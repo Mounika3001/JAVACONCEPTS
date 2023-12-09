@@ -1,0 +1,6 @@
+CONSTRUCTOR OVERLOADING:
+=========================
+It is the process of multiple constructors with difference in the signature.
+Normally we overload the constructor to initialize different objects to 
+different states or to initialize different objects data members 
+(attributes, properties) to different values.

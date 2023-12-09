@@ -1,0 +1,21 @@
+DataTypes:
+==========
+Data types are the mechanisms that are used to convert real-world 
+data into binary and stored it in the computer's memory.
+Types of data types:
+--------------------
+1.Primitive data types.
+2.Non primitive data types.
+
+Primitive data types:
+---------------------
+There are 8 primitive data types in java
+1.char                  5.long
+2.byte                  6.float
+3.short                 7.double
+4.integer                   8.boolean
+
+Non-Primitive data types:
+-------------------------
+Any data which is present in java is said to be non data type
+Example: Scanner, Arrays, System, Strings

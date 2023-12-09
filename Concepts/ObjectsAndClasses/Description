@@ -1,0 +1,17 @@
+OBJECTS AND CLASSES:
+=====================
+     Object-orientation is an approach which intends to solve real 
+ world problems using programming.
+     In Object Oriented programming real-world entities are 
+ represented as objects
+Objects:
+--------
+       An object can be defined as a programming representation of
+real-world entity.
+      An object can be created by using the blueprint or the 
+ or the template returned by the programmer in the form of a class.
+ Class:
+ -----
+  A class can be defined as a template or blue print based on 
+  which object is created
+ 

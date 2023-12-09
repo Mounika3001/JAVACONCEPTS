@@ -1,0 +1,8 @@
+ELSE IF LADDER CONTROL CONSTRUCT:
+=================================
+ The else if ladder is a conditional constructor is used to evaluate
+ multiple conditions in a sequential order i.e., each condition in 
+ the else if ladder is checked and if the result happens to be true
+ corresponding block would be executed .
+    if none of the conditions in the ladder are found then by default
+ else block would be executed.
